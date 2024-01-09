@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="(https://linkedin.com/in/vivian joseph](https://www.linkedin.com/in/vivian-joseph-654993218/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivian joseph" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vivian-joseph-654993218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivian-joseph-654993218" height="30" width="40" /></a>
 <a href="https://kaggle.com/vivian008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vivian008" height="30" width="40" /></a>
 <a href="https://instagram.com/_vivian_joseph_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vivian_joseph_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itsvivian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsvivian" height="30" width="40" /></a>
