@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/itsvivianjoseph).
 
-- 💬 Ask me about **💬 Tech enthusiast and Full-Stack Developer. Explore with me in ML/AI and blockchain realms! 🚀✨**
-
 - 📫 How to reach me **itsvivianjoseph@gmail.com**
 
 - 📄 Know about my experiences [resume](https://www.canva.com/design/DAF5ano0-40/6NN6bWg-aJw9Y-OQAtk7SA/edit?utm_content=DAF5ano0-40&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
@@ -33,5 +31,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="itsvivianjoseph" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsvivianjoseph)](https://git.io/streak-stats)
