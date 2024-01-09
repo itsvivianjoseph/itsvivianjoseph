@@ -33,4 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="itsvivianjoseph" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsvivianjoseph)](https://git.io/streak-stats)
+
+<img src="https://streak-stats.demolab.com/?user=itsvivianjoseph&theme=dark" alt="GitHub Streak" />
