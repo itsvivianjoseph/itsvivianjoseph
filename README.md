@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **itsvivianjoseph@gmail.com**
 
-- 📄 Know about my experiences [resume](https://www.canva.com/design/DAF5ano0-40/6NN6bWg-aJw9Y-OQAtk7SA/edit?utm_content=DAF5ano0-40&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
+- 📄 Know about my experiences [resume]([https://www.canva.com/design/DAF5ano0-40/6NN6bWg-aJw9Y-OQAtk7SA/edit?utm_content=DAF5ano0-40&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFqZeIUNL4/nMAlN4Xa_TvGXfPK-GsIMQ/edit?utm_content=DAFqZeIUNL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)).
 
 - ⚡ Fun facts **Movie buff 🎬 | anime lover 🍿 | mental & physical fitness 🧘‍♂️💪**
 
