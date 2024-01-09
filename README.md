@@ -34,4 +34,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsvivianjoseph&theme=highcontrast" alt="itsvivianjoseph" /></p>
+![Vivian's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=merko)
