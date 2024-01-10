@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=itsvivianjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="itsvivianjoseph" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvivianjoseph" alt="itsvivianjoseph" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvivianjoseph" alt="itsvivianjoseph" /></a> </p>
 
 - 🔭 I’m currently working on , **improving proficiency in full-stack application development**
 
@@ -17,15 +17,15 @@
 
 - ⚡ Fun facts about me, **Movie buff 🎬 | Gamer  🎮 | anime lover 🍿 | mental & physical fitness 🧘‍♂️💪**
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/vivian-joseph-654993218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivian-joseph-654993218" height="30" width="40" /></a>
 <a href="https://kaggle.com/vivian008" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="vivian008" height="30" width="40" /></a>
 <a href="https://instagram.com/_vivian_joseph_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vivian_joseph_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/itsvivian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itsvivian" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
@@ -77,6 +77,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="itsvivianjoseph" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="itsvivianjoseph" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
