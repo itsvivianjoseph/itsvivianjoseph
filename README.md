@@ -1,7 +1,7 @@
 <h1 align="center">Hay 👋, I'm Vivian Joseph</h1>
 <h3 align="center">Full-Stack Developer ✨ | Tech Enthusiast 🚀 | ML/AI and Blockchain Explorer 🔍</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsvivianjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="itsvivianjoseph" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=itsvivianjoseph&label=Profile%20views&color=0e75b6&style=flat" alt="itsvivianjoseph" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsvivianjoseph" alt="itsvivianjoseph" /></a> </p>
 
