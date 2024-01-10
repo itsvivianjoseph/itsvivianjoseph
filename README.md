@@ -79,4 +79,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&locale=en&layout=compact" alt="itsvivianjoseph" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=itsvivianjoseph&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en" alt="itsvivianjoseph" /></p>
