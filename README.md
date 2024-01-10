@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [resume](https://www.canva.com/design/DAFqZeIUNL4/nMAlN4Xa_TvGXfPK-GsIMQ/edit?utm_content=DAFqZeIUNL4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
-- ⚡ Fun facts **Movie buff 🎬 | anime lover 🍿 | mental & physical fitness 🧘‍♂️💪**
+- ⚡ Fun facts about me, **Movie buff 🎬 | anime lover 🍿 | mental & physical fitness 🧘‍♂️💪**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
