@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on , **improving proficiency in full-stack application development**
 
-- 🌱 I’m currently learning **System design concepts, problem-solving, Py based full-stack development**
+- 🌱 I’m currently learning **Py based full-stack development**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/itsvivianjoseph).
 
